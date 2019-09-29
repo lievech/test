@@ -1,0 +1,3 @@
+/home/lhn/test/CMakeFiles/edit_cache.dir
+/home/lhn/test/CMakeFiles/rebuild_cache.dir
+/home/lhn/test/CMakeFiles/display.dir
